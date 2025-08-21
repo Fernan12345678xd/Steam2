@@ -1,0 +1,12 @@
+{
+  "name": "Steam2",
+  "description": "Extensión STEAM DIY para controlar LEDs, motores DC y servos con micro:bit",
+  "version": "0.1.0",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
